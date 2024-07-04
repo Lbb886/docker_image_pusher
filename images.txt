@@ -4,10 +4,10 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #青龙
-whyour/qinglong:2.11.3
+--platform=linux/arm64 whyour/qinglong:2.11.3
 #Aria2
-p3terx/aria2-pro
-superng6/aria2
-wahyd4/aria2-ui
+--platform=linux/arm64 p3terx/aria2-pro
+--platform=linux/arm64 superng6/aria2
+--platform=linux/arm64 wahyd4/aria2-ui
 #jellyfin
-linuxserver/jellyfin
+--platform=linux/arm64 linuxserver/jellyfin
