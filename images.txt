@@ -6,6 +6,8 @@ xhofe/alist:latest
 #青龙
 whyour/qinglong:2.11.3
 #Aria2
-p3terx/aria2-pro:latest
-superng6/aria2:latest # docker
-wahyd4/aria2-ui:latest # arm
+p3terx/aria2-pro
+superng6/aria2 # docker
+wahyd4/aria2-ui # arm
+#jellyfin
+linuxserver/jellyfin
